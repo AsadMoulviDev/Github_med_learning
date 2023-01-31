@@ -82725,7 +82725,7 @@ Z(a){var s,r,q,p,o,n,m=this,l=null,k=A.aCT(B.as,l).a_q(B.pL,A.aGM(A.ah(a).p3).ZC
 j=A.oS(A.b([new A.Em(1,new A.ar7(m),1,3,l),A.aGu(j,new A.ar8())],i),B.a2,l,B.kp,B.ab)
 s=A.pR(new A.bu(8,8))
 r=new A.a3E()
-r.a="help.pdf"
+r.a="assets/help.pdf"
 s=A.f8(A.dC(l,new A.E6(r,m.e,new A.ar9(m,a),l),l,l,new A.e2(l,l,l,s,l,l,B.aF),l,l,l,l,l),600,750)
 r=J.ai(m.d,0).a
 q=J.ai(m.d,0).b
