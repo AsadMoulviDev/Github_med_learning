@@ -83550,7 +83550,7 @@ if(m.at){q=A.aGP(new A.at9(m),m.gZC())
 p=new A.aev()
 p.a=m.e.b
 p=A.du(A.b([A.h5(A.b([A.dJ(A.fd(B.aR,A.b([q,A.bt(l,new A.Ew(p,m.z,new A.ata(m),new A.atb(m,a),l),B.k,B.q5,l,l,l,l,l,l,l,l,l)],s),B.R,B.aO),600,750)],s),B.I,l,B.cw,B.G),A.h5(A.b([A.bt(l,A.aJi(!0,B.ca,!1,l,A.b01(),m.y,l,l,l,2,B.HE,!0,l,!0,l,!1,l,l,l,l,l,l,1,l,l,!1,"\u2022",l,new A.atc(m),l,l,l,!1,l,l,B.qG,l,l,l,l,l,l,l,B.bJ,l,B.BE,l,l,l),B.k,l,l,l,l,20,l,l,l,l,20),A.bt(l,A.c_(B.e.l(m.w),l,l,l,l,l,l),B.k,l,l,l,l,20,l,l,l,l,20)],s),B.I,l,B.T,B.G)],s),B.I,l,B.cw,B.G)
-q=p}else q=A.dJ(A.NV("test.gif"),600,750)
+q=p}else q=A.dJ(A.NV("assets/test.gif"),600,750)
 return A.aD_(k,A.S3(!0,A.h5(A.b([r,A.dJ(A.rN(q,new A.az(0,20,0,0)),l,l),A.bt(l,A.du(A.b([new A.bN(B.Gu,A.dJ(A.aJG(B.oW,A.b([A.bt(l,A.fd(B.aR,A.b([A.aGP(new A.atd(m),m.gZC()),A.AW(!1,!0,new A.U7(l),l,!0,l,l,l,l,l,l,l,l,l,new A.ate(m),l,l,l,l)],s),B.R,B.aO),B.k,l,l,l,l,205,l,l,l,l,180)],s),B.WJ,0,0),l,l),l),new A.bN(B.Gt,new A.Br(l),l)],s),B.I,l,B.T,B.G),B.k,l,l,l,l,l,l,l,l,l,l)],s),B.cR,l,B.T,B.G),B.a4,!0),B.Qu)}}
 A.at6.prototype={
 $0(){this.a.e=this.b},
